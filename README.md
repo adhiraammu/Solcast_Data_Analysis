@@ -2,6 +2,10 @@
 ## Overview
 This project focuses on the analysis and visualization of solar energy forecasting data of Solcast obtained from Rapid API. The dataset includes several important metrics, such as Global Horizontal Irradiance (GHI), Direct Normal Irradiance (DNI), cloud opacity, and time period. The primary goal is to explore the relationship between weather conditions and solar energy production and provide insights for optimizing solar energy systems.
 
+## Quick Links
+1. [Solar Data Analysis Notebook](https://github.com/adhiraammu/Solcast_Data_Analysis/blob/main/Solar%20data-analysis-notebook.ipynb)
+2. [Power Bi Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjM1Y2NjNTgtNmIwZC00MTNkLTgyNzUtZjA4YTMzNDg0NjkxIiwidCI6ImVlMmQ2ZDcyLTk1MzUtNDI0Mi1hMDc3LWFjZjE4NTc4MmY5YiIsImMiOjF9)
+   
 ## Project Workflow
 ### Step 1: Exploring the Data
 After retrieving the solar energy forecasting data from the Solcast API, the first step is to understand its structure and contents. This involves examining the main components of the data, particularly the keys in the JSON response.
