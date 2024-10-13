@@ -66,7 +66,7 @@ After successfully filtering the data, the filtered data can then be imported in
 
 ### Power BI Visualization
 
-![image](https://github.com/user-attachments/assets/30483e06-84e1-4f5f-9f3e-94a1012038af)
+![image](https://github.com/user-attachments/assets/c16bb3cd-c87d-41d2-94c8-4d2ef11dbe29)
 
 Line Graph
 Filtered GHI values greater than 50 are plotted in a line graph for a 7-day period, alongside other factors like EHI, GHI 90, and GHI 10.
